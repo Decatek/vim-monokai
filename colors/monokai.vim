@@ -122,7 +122,7 @@ call s:h("CursorLineNr",  { "fg": s:orange,     "bg": s:lightblack })
 call s:h("SignColumn",    {                     "bg": s:lightblack })
 
 " misc
-call s:h("SpecialKey",    { "fg": s:pink })
+call s:h("SpecialKey",    { "fg": s:lightgrey })
 call s:h("Title",         { "fg": s:yellow })
 call s:h("Directory",     { "fg": s:aqua })
 
